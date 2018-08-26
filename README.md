@@ -9,7 +9,7 @@
 
 
 
-![image](Challenge2/Unknown.jpeg)
+![image](Unknown.jpeg)
 
 
 
