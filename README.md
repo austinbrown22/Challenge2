@@ -13,7 +13,7 @@
 
 
 
-[Image on the web](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwij87WFzIvdAhUN0awKHX5gDfYQjRx6BAgBEAU&url=https%3A%2F%2Fimagejournal.org%2F&psig=AOvVaw3i4j_LFuNCzFEx7tUJJt2_&ust=1535402930453591)
+[![Imageonweb](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 ```javascript
 var a = "JavaScript syntax highlighting";
