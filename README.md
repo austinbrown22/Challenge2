@@ -13,9 +13,8 @@
 
 
 
-[![Creative Commons License](http://i.creativecommons.org
-    /l/by-nc-nd/3.0/88x31.png)](http://creativecommons.org/
-    licenses/by-nc-nd/3.0/)
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)]</a>
+
 
 ```javascript
 var a = "JavaScript syntax highlighting";
