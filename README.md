@@ -69,6 +69,6 @@ ___
 
 20. To highlight text you put two equal signs at the beginning and end of the phrase you want to highlight. 
 
-== example ==
+==example==
 
 
