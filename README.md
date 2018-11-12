@@ -60,5 +60,15 @@ This is a horizontal rule..
 ___
 
 
-16. Here is a list of emojis you can add in markdown. 
+18. Here is a list of emojis you can add in markdown. 
 [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+19. You can also put buttons in the markdown you would code it just like in html. Like the example below:
+
+<button class="button-save large">Big Fat Button</button>
+
+20. To highlight text you put two equal signs at the beginning and end of the phrase you want to highlight. 
+
+== example ==
+
+
