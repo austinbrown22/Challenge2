@@ -1,3 +1,18 @@
+Here is a link back to the read me file: [ReadMe](README.md)
+
+History of Markdown:
+
+Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+
+It was released in 2004 by a guy named John Gruber. There are multiple markdown editors like github and typora. 
+
+
+
+
+
+
+
+
 Please disregard the parenthesis that start and stop the examples I give you for correct notation. They are placed there to stop the markdown file from displaying it and so you can see the correct notation without markdown processing it. 
 
 1. A (#) in a markdown file makes a header. See Below.
