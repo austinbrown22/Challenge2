@@ -67,13 +67,13 @@ ___
 18. Here is a list of emojis you can add in markdown. 
 [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-19.
+19. You can also make lists with checkboxes. To do this you put a (-) in front then an ([]) with the text you want it to say as follows:
 
-- [ ] Screen width (integer)
- - [x] Service worker support
- - [x] Fetch support
- - [ ] CSS flexbox support
- - [ ] Custom elements
+- [ ] Mcdonalds
+ - [x] Jimmy Johns
+ - [ ] Burger King
+ - [x] Papa Johns
+ - [ ] This is a cool example
 
 
 
