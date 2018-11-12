@@ -67,9 +67,13 @@ ___
 18. Here is a list of emojis you can add in markdown. 
 [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-19. You can also put buttons in the markdown you would code it just like in html. Like the example below:
+19.
 
-<button class = "markdown-button" type="introbutton">GET IN TOUCH</button>
+- [ ] Screen width (integer)
+ - [x] Service worker support
+ - [x] Fetch support
+ - [ ] CSS flexbox support
+ - [ ] Custom elements
 
 
 
