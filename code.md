@@ -11,7 +11,7 @@ Please disregard the parenthesis that start and stop the examples I give you for
 3.Brackets link to an external link in a Markdown File. This is the correct notation: ([name of link](this is where the link goes)
 [Github](https://github.com)
 
-4.You can also do this for another file on your github. The link below links to the other markdown file in my repository. This is the notation: ([what you want to name file](actual name of file)
+4.You can also do this for another file on your github. The link below links to the other markdown file in my repository. This is the notation: ([what you want to name file](actual name of file) or (path to the file)
 [testfile](test.md)
 
 5.You can link to an image using (![image](this is where the name of the picture goes). As long as the picture is included in your github files it will load the picture perfectly. 
