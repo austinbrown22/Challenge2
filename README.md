@@ -77,5 +77,5 @@ ___
 
 20. Typing an @ symbol followed by a username, will notify that person that they were tagged in something. For example:
 
-@austinbrown22
+@github
 
