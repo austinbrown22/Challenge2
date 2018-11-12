@@ -34,12 +34,16 @@ alert(a);
 * Burger King
 * Jimmy Johns
 
-10. This is a numbered list all you do is number the list just exactly like you normally would. 
+10. This is a numbered list all you do is number the list just exactly like you normally would. You can create a nested list by indenting one or more list items below another item.
+
+To create a nested list using the web editor on GitHub or a text editor that uses a monospaced font, like Atom, you can align your list visually. Type space characters in front of your nested list item, until the list marker character (- or *) lies directly below the first character of the text in the item above it.
+
 1. Mcdonalds
 2. Burger King
 3. Jimmy Johns
 
-11. The following is a table in markdown. To make the columns you use |. For each row you must have an | and also after each item you must have an | to tell it to end and to start the next column. After the headers in each column you need to have multiple - however long you want that column. This tells markdown you are starting into the content cell. If you want to center align it you need : at the beginning and end of the -. Like the middle colummn below. If you want to right align it you need to put : at the end of the -, like the column on the right. To left align it you need to put : at the beginning of the - after the header. 
+11. The following is a table in markdown. To make the columns you use (|). For each row you must have an (|) and also after each item you must have an (|) to tell it to end and to start the next column. After the headers in each column you need to have multiple (-) however long you want that column. This tells markdown you are starting into the content cell. If you want to center align it you need (:) at the beginning and end of the -. Like the middle colummn below. If you want to right align it you need to put (:) at the end of the (-), like the column on the right. To left align it you need to put (:) at the beginning of the (-) after the header. 
+
 | Name          | Type          | Cost  |
 | ------------- |:-------------:| -----:|
 | Mcdonalds     | fast food     |    $6 |
@@ -67,8 +71,5 @@ ___
 
 <button class="button-save large">Big Fat Button</button>
 
-20. To highlight text you put two equal signs at the beginning and end of the phrase you want to highlight. 
-
-==example==
 
 
