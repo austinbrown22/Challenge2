@@ -7,6 +7,8 @@ This is a tutorial about markdown, it covers everything a student would need to 
 The target audience of this tutorial would be anyone in IT 2600 or just anyone that wants to expand their knowledge of markdown and become familiar with it. The level of prior knowledge this tutorial would suit is someone that has no experience in markdown. 
 
 
+I decided to do markdown as my tutorial because it is the one challenge I struggled with at first because it was hard to find anything on the internet that showed how to do it as well as gave an example. I think this will really help students. 
+
 Here is the link to the tutorial:
 
 [Markdown Tutorial](code.md)
