@@ -75,7 +75,7 @@ ___
  - [x] Papa Johns
  - [ ] This is a cool example
 
-20. Typing an @ symbol followed by a username, will notify that person that they were tagged in something. For example:
+20. Typing an @ symbol followed by a username, will notify that person that they were tagged in something. 
 
-@github
+
 
