@@ -69,7 +69,7 @@ ___
 
 19. You can also put buttons in the markdown you would code it just like in html. Like the example below:
 
-<button class="button-save large">Big Fat Button</button>
+<button class = "markdown-button" type="introbutton">GET IN TOUCH</button>
 
 
 
